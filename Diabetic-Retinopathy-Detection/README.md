@@ -17,7 +17,7 @@ This project was selected for the Google AI ML Mentorship Bootcamp, making it on
 To use this repository, please follow the steps below:
 
 Clone the repository to your local machine using the following command:
-``` git clone https://github.com/your_username/Diabetic-Retinopathy-Detection.git```
+``` git clone https://github.com/saqib772/Data-Science.git```
 Change to the repository directory:
 ```  cd Diabetic-Retinopathy-Detection```
 
